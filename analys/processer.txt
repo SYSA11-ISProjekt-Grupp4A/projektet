@@ -1,0 +1,53 @@
+# Aktiviteter
+
+## Kund
+
+### Uthyrning
+
+- Intresseanmälan
+#### Per webbsida
+1. Kund går in på hemsidan - hittar önskad produkt.
+2. Kund fyller i ett formulär och skickar det (hur?).
+3. (Antaget) Personal läser intresseanmälan (ett e-mail) och kontaktar kund
+för vidare hantering (påbörjan av en ny process).
+
+- Boka bil
+#### Per telefon
+1. Kund ringer in - Personal svarar.
+2. Produkt väljes.
+2.1. Kund förklarar behöv.
+2.2. Personal försöker hittar relevant bil.
+3. 
+
+#### Per kontor
+
+- Avboka bil
+Görs per telefon eller på kontor.
+
+- Ändra bokning
+Görs per telefon eller på kontor.
+
+- Skriva på kontrakt
+Görs på kontor.
+
+- Hämta ut bil
+Görs på kontor.
+
+- Lämna tillbaka bil
+Görs på kontor.
+
+
+## Personal
+
+### Uthyrning
+
+
+# Exempel
+
+## Nummer 1
+- Kalle behöver en bil till skidsemestern.
+- Kalle browsar lite på webbsidan, hittar en relevant bil, ringer in för att
+höra mer.
+- Lisa svarar i telefonen. Kalle förklarar läget - han har hittat en bil på
+  webbsidan han tycker verkar lovande för skidsmestern. 
+

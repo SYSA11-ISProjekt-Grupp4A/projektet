@@ -1,0 +1,21 @@
+Kund
+  Privat
+  Företag
+Personal
+  * Kan se vad man kommit överens om.
+  Chefer
+    Uthyrning
+      Sven-Åke Hyrman
+    Procurement
+      Bengt Knodd
+    Maintenance & Services
+      Inga P. Roblem
+  Produktgruppsansvarig (s. 14)
+    * Se till att kunden har befogenhet.
+    Bilar
+    Släpvagnar
+  Revisor
+  Kundtjänst
+  Lokal-
+  Ansvariga
+    * Kan komma överens.
