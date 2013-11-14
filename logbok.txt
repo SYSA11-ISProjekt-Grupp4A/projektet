@@ -15,6 +15,7 @@
 
 
 # 20131113
+## Grov analys
 
 * Påbörjat strukturering av processanalysen. Tagit ut viktiga delar ur texten. 
 
@@ -29,3 +30,11 @@
 * Bestämde nästa gång vi ska ses (torsdag 14/11).
  
 * Ingen hemarbete planerades.
+
+
+# 20131114
+## Grov analys..
+
+* Grov analys klar.
+
+* "Ren"skrivning av tidigare analys-arbete.
