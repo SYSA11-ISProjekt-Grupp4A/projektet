@@ -13,6 +13,8 @@
 
 * Skapat todo-fil.
 
+* Försöker förstå uppgiften
+
 
 # 20131113
 ## Grov analys
@@ -39,12 +41,34 @@
 
 * "Ren"skrivning av tidigare analys-arbete.
 
+
 # 20131115 
 ## Rika bilder och workflow diagram 
 
-*Första mötet med Magnus W.
+* Första mötet med Magnus W.
 
-* Försöker förstå uppgiften
+
+# 20131119
+## workflow chart (swim lanes)
+
+* Första WS med Odd. Fick, ingen feed-back av honom.
+
+* Gjorde klart flow chart (as-is) , visade den för Magnus. Fick feed back, han tyckte att den i stort sett bra ut. Vi ändrade de som Magnus hade synpunkter på.
+
+* Skrev text som förklarar våran process mera ingående. 
+
+
+# 20131120
+## Fortsätter med flow charts (do be). Hoppas att bli färdiga med denna idag.
+
+* Magnus ska ha en informations timme pga att det råder stor förvirring i klassen om vad som gäller angående projektet.
+
+*
+
+
+
+
+
 
 
 
