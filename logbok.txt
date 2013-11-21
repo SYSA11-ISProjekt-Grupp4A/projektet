@@ -63,12 +63,17 @@
 
 * Magnus ska ha en informations timme pga att det råder stor förvirring i klassen om vad som gäller angående projektet.
 
-*
 
+# 20131121
+## Försöker ännu en gång förstå vad som förväntas av oss.
 
+* Planeringen i formatet vi tror lärarna vill ha.
 
+* Ritat flera rika bilder, men ej nöjd med någon. Förstår ej riktigt vad vi
+skall göra. Beskrivningen av problemet känns mer komplicerad än problemet.
 
+* Gjort work-flow-diagram för bokning, avbokning, utlämning och återlämning.
 
+* As-is funktionslista påbörjad
 
-
-
+* Diskuterat massor (som vanligt).
