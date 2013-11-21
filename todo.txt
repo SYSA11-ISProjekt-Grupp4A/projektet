@@ -1,0 +1,19 @@
+todo
+  processanalys
+    as-is
+      systemdefinition
+        vatofa
+      rik bild
+        ska i stort sätt förklara situationen och eventuella problem
+      funktionslista
+      datorisera work-flow-diagram
+    to-be
+      funktionslista
+done
+ritat massor rika bilder, ej riktigt nöjda med nåt
+processanalysen
+  några work-flow diagram
+    bokning
+    avbokning
+    uthämtning
+    återlämning
