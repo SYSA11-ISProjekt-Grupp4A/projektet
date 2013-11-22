@@ -77,3 +77,17 @@ skall göra. Beskrivningen av problemet känns mer komplicerad än problemet.
 * As-is funktionslista påbörjad
 
 * Diskuterat massor (som vanligt).
+
+
+# 20131122
+## Står och stampar lite i processanalysen. Vill komma vidare
+
+* Fört in alla hand ritade modeller till Visio.
+
+* Bestämt att vi ska gå vidare och börja med To-be processerna och systemdefinitionen. 
+
+* Varit på Anders work shop (IKT)
+
+* Skrivit ut planeringen som ska lämnas in 26/11. 
+
+
