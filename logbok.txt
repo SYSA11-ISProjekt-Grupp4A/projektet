@@ -91,3 +91,16 @@ skall göra. Beskrivningen av problemet känns mer komplicerad än problemet.
 * Skrivit ut planeringen som ska lämnas in 26/11. 
 
 
+# 20131126
+## Började arbetet med To-be. 
+
+* Handledning med Odd. Han blev lätt irriterad av våra frågor angående hur/varför användning av funktionslista. 
+
+* Visade Odd våra modeller för As-is. Han är ingen expert på flow chart diagram. Vi bestämde att vi ska visa modellerna för Magnus också.
+
+* Ritade ett toppoligiskt nätverks schema över To-be systemet. 
+
+* Ritade work flow diagram över våra To-be processer. 
+
+* Började förstå hur vi ska skriva en funktionslista. 
+
