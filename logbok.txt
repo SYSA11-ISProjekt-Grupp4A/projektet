@@ -104,3 +104,31 @@ skall göra. Beskrivningen av problemet känns mer komplicerad än problemet.
 
 * Började förstå hur vi ska skriva en funktionslista. 
 
+
+# 20131130
+## Simple Android test app.
+
+
+# 20131201-04
+## Systemdefinition, användarfall, VATOFA, funktionslista
+
+
+# 20131205
+## Lämnade in IKT-uppgiften
+
+
+# 20131212
+## Klass-diagram + Planering
+
+* Grunderna för klass-diagrammet klar (behovs GUI + Kontroller?, bara data nu, typ)
+
+* Planerat:
+  Syfte och Bakgrund (MW)
+  Aktörstabell (HL)
+  Funktionslista (HL)
+  Beskrivning av klasser (AL)
+  Klassdiagram
+  Aktörsspecifikatrion (AL)
+  Användarfallsspecifikation (MW)
+
+* Diskuterat med andra grupper om vad som skall vara med i klass-diagrammet (GUI? Kontroller? Bara data?)
