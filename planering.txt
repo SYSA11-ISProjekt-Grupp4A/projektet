@@ -1,0 +1,78 @@
+# Projektplan
+
+## Projektkontrakt
+
+Vi har som grupp valt att inte skriva ett kontrakt. 
+
+Vi räknar med att alla engagerar sig. 
+
+
+## Ansvarsområden
+
+### Arbetsuppgifter / Planering
+
+#### Vad som ska göras
+Alla
+
+#### När det ska göras
+Alla
+
+### Processanalys
+Mikkel, Hannes
+
+### Modellering
+Alexander, Hannes
+
+### Programmering
+Mikkel, Alexander
+
+### Rapport
+
+Alexander
+
+### Opponering
+Hannes
+
+### Presentation
+Mikkel
+
+### Loggbok
+Hannes
+
+### Inlämningar
+Mikkel
+
+## Arbetsuppgifter
+Uppgifter definieras under projektets gång. Nedan finns en tidsplanering.
+
+## Tidsplanering
+
+### 20131126 
+Inlämning av projektplan (Anders).
+
+### 20131213
+Få feedback på designen av annan grupp.
+
+### 20131216
+Inlämning av systemdesign och processanalys (Niklas & Odd).
+
+### 20131220
+Försöker vara klara me resterande delar av projektet.
+
+### 20131222 - 20140102
+Jullov.
+
+### 20140103 - 20140110
+Paniktid.
+
+### 20140110
+Får feedback på arbetet av en annan grupp.
+
+### 20140112
+Slut fix av programmeringen och rapporten.
+
+### 20140116
+Presentation av projektet.
+
+### 20140117
+Inlämning av rapport.
