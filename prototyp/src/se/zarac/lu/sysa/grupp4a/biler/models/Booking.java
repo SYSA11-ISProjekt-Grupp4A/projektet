@@ -4,11 +4,11 @@ import java.util.Date;
 
 public class Booking {
     protected Person by;
-    protected Product item;
+    protected Item item;
     protected Date start;
     protected Date end;
 
-    public Booking (Person by, Product item, Date start, Date end) {
+    public Booking (Person by, Item item, Date start, Date end) {
         this.by = by;
         this.item = item;
         this.start = start;
