@@ -12,10 +12,10 @@ import se.zarac.lu.sysa.grupp4a.biler.models.Vehicle;
 import se.zarac.lu.sysa.grupp4a.biler.models.Booking;
 
 public class Biler {
-    protected List<Person> customers;
+    protected List<Person> customers;   
     protected List<Product> products;
     protected List<Filter> filters;
-    protected List<Item> items;    
+    protected List<Item> items;
     protected List<Booking> bookings;
     
     public Biler() {
@@ -103,4 +103,30 @@ public class Biler {
         
         // what's available?
         System.out.println("Filtered:");
-        System.out.println(filter(filters, items)); } }
+        System.out.println(filter(filters, items)); }
+
+    public List<Person> findPerson(String key) {
+        List<Person> matches = new LinkedList<Person>();
+        
+        Iterator<Person> p = customers.iterator();
+        while (p.hasNext()) {
+            Person person = p.next();
+            if (person.getName().toLowerCase().indexOf(key.toLowerCase()) > -1) {
+                matches.add(person); } }
+        
+        return matches; }
+    
+    public List<Person> getCustomers() {
+        return customers; }
+
+    public List<Product> getProducts() {
+        return products; }
+
+    public List<Filter> getFilters() {
+        return filters; }
+
+    public List<Item> getItems() {
+        return items; }
+
+    public List<Booking> getBookings() {
+        return bookings; } }

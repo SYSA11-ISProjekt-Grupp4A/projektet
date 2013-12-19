@@ -13,4 +13,16 @@ public class Person {
         this.personNumber = personNumber; }
     
     public String toString() {
-        return name; } }
+        return name; } 
+    
+    public String getName() {
+        return name; }
+
+    public String getPersonNumber() {
+        return personNumber; }
+
+    public List<Phone> getPhoneNumbers() {
+        return phoneNumbers; }
+
+    public List<Address> getAddresses() {
+        return addresses; } }
