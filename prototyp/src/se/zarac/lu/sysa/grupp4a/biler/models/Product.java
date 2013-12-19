@@ -4,4 +4,7 @@ public class Product {
     protected String id;
     
     public Product(String id) {
-        this.id = id; } }
+        this.id = id; }
+    
+    public String toString() {
+        return id; }  }

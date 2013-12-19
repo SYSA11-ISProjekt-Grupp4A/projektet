@@ -12,4 +12,7 @@ public class Address {
         this.number = number;
         this.postalCode = postalCode;
         this.city = city;
-        this.country = country; } }
+        this.country = country; }
+    
+    public String toString() {
+        return street + " " + number + ", " + city; } }

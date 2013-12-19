@@ -12,4 +12,7 @@ public class Booking {
         this.by = by;
         this.item = item;
         this.start = start;
-        this.end = end; } }
+        this.end = end; }
+    
+    public String toString() {
+        return item + " by " + by + " from " + start + " to " + end; } }

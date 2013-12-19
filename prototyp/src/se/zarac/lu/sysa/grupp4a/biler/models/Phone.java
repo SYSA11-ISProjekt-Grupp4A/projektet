@@ -4,4 +4,7 @@ public class Phone {
     protected String number;
     
     public Phone(String number) {
-        this.number = number; } }
+        this.number = number; }
+    
+    public String toString() {
+        return number; } }

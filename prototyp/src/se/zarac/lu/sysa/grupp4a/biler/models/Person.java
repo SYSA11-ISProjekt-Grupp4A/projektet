@@ -10,4 +10,7 @@ public class Person {
     
     public Person(String name, String personNumber) {
         this.name = name;
-        this.personNumber = personNumber; } }
+        this.personNumber = personNumber; }
+    
+    public String toString() {
+        return name; } }

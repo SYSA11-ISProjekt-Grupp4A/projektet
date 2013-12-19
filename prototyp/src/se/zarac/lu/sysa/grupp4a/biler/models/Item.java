@@ -6,4 +6,10 @@ public class Item {
     
     public Item(Product product, String id) {
         this.product = product;
-        this.id = id; } }
+        this.id = id; }
+    
+    public Product getProduct() {
+        return product; }
+    
+    public String toString() {
+        return id; } }

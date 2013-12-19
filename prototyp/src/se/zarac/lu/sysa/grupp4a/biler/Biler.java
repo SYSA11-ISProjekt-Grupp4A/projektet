@@ -63,18 +63,20 @@ public class Biler {
         // some vehicles (specialized Products)
         Vehicle volvoV70 = new Vehicle("V70", 5);
         Vehicle saab95 = new Vehicle("95", 4);
+        Vehicle enzo = new Vehicle("enzo", 2);
         
         products.add(volvoV70);
         products.add(saab95);
+        products.add(enzo);
 
         System.out.println("Products:");
         System.out.println(products);
         
         // some filters
-        SizeFilter sizeFilter = new SizeFilter();
-        sizeFilter.setSize(4);
+        SeatsFilter seatsFilter = new SeatsFilter();
+        seatsFilter.setSeats(4);
         
-        filters.add(sizeFilter);
+        filters.add(seatsFilter);
 
         System.out.println("Filters:");
         System.out.println(filters);
@@ -82,9 +84,11 @@ public class Biler {
         // some items
         Item volvon = new Item(volvoV70, "vulvan");
         Item saaben = new Item(saab95, "saaab");
+        Item enzon = new Item(enzo, "enzon");
         
         items.add(volvon);
         items.add(saaben);
+        items.add(enzon);
      
         System.out.println("Items:");
         System.out.println(items);
