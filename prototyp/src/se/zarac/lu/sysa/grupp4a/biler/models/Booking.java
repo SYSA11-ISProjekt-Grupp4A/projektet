@@ -1,13 +1,15 @@
 package se.zarac.lu.sysa.grupp4a.biler.models;
 
-public class Booking {
-    protected String by;
-    protected String vehicle;
-    protected String start;
-    protected String end;
+import java.util.Date;
 
-    public Booking (String by, String vehicle, String start, String end) {
+public class Booking {
+    protected Person by;
+    protected Product item;
+    protected Date start;
+    protected Date end;
+
+    public Booking (Person by, Product item, Date start, Date end) {
         this.by = by;
-        this.vehicle = vehicle;
+        this.item = item;
         this.start = start;
         this.end = end; } }
