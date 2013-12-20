@@ -57,8 +57,7 @@ public class Biler {
         customers.add(kalle);
         customers.add(lisa);
         
-        System.out.println("Customers:");
-        System.out.println(customers);
+        System.out.println("Customers: " + customers);
         
         // some vehicles (specialized Products)
         Vehicle volvoV70 = new Vehicle("V70", 5);
@@ -69,8 +68,7 @@ public class Biler {
         products.add(saab95);
         products.add(enzo);
 
-        System.out.println("Products:");
-        System.out.println(products);
+        System.out.println("Products: " + products);
         
         // some filters
         SeatsFilter seatsFilter = new SeatsFilter();
@@ -78,8 +76,7 @@ public class Biler {
         
         filters.add(seatsFilter);
 
-        System.out.println("Filters:");
-        System.out.println(filters);
+        System.out.println("Filters: " + filters);
                 
         // some items
         Item volvon = new Item(volvoV70, "vulvan");
@@ -90,20 +87,17 @@ public class Biler {
         items.add(saaben);
         items.add(enzon);
      
-        System.out.println("Items:");
-        System.out.println(items);
+        System.out.println("Items: " + items);
         
         // and a booking bookings
         Booking kalleTarVolvon = new Booking(kalle, volvon, new Date(2013, 12, 19), new Date(2013, 12, 19));
 
         bookings.add(kalleTarVolvon);
 
-        System.out.println("Bookings:");
-        System.out.println(bookings);
+        System.out.println("Bookings: " + bookings);
         
         // what's available?
-        System.out.println("Filtered:");
-        System.out.println(filter(filters, items)); }
+        System.out.println("Filtered: " + filter(filters, items)); }
 
     public List<Person> findPerson(String key) {
         List<Person> matches = new LinkedList<Person>();
