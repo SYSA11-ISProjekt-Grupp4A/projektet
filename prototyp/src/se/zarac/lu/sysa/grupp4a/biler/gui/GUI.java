@@ -18,10 +18,7 @@ public class GUI extends JFrame {
     
     public GUI(Biler biler) {
         this.biler = biler;
-        Dimension screenSize = java.awt.Toolkit.getDefaultToolkit().getScreenSize();
-        System.out.println("screenSize" + screenSize);
-        //setSize(800, 600);
-        setBounds(0, 0, screenSize.width, screenSize.height);
+        setExtendedState(getExtendedState() | MAXIMIZED_BOTH);
         setResizable(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
